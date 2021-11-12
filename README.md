@@ -1,8 +1,8 @@
 # This project was implemented by 3 ITN-CONTRA members:
 
-+Michael Schneider(Univ. Cambridge, UK)
-+Nico Borgsmuller(ETH Zurich, Switzerland)
-+Fausto Fabian Crespo Fernandez(Univ. Vigo, Spain)
+-Michael Schneider(Univ. Cambridge, UK)
+-Nico Borgsmuller(ETH Zurich, Switzerland)
+-Fausto Fabian Crespo Fernandez(Univ. Vigo, Spain)
 
 # Unique molecular identifiers (UMI) - de-duplication
 Processes a raw FASTQ file by truncating UMIs and collapsing unique ones.
